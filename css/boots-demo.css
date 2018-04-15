@@ -1,0 +1,27 @@
+.one{
+
+}
+.two{
+
+}
+.three{
+
+}
+.four{
+
+}
+
+.link-block{
+    margin:  10px 5px;
+    background: #ffffff;
+    border-radius: 5px;
+}
+.tag-block{
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px ;
+}
+.newrow{
+    margin: 5px;
+}
